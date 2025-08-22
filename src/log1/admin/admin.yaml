@@ -1,0 +1,4 @@
+features:
+  DEBUG: true
+  WRITE: false
+  OUT: true
